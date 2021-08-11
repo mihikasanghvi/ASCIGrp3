@@ -2,6 +2,9 @@
 <p>The following application is primarily used for taking down notes as and when required.But in order to ensure personalization of the notes,the following application is also equipped with a authentication feature provided by the password generator.
   
  </p> 
+ 
+ <H2>TECHNOLOGIES USED</H2>
+<P>1)HTML<BR> 2)CSS<BR>3)JAVASCRIPT<BR>4)BOOTSTRAP</P>
 
 <p>The password generator helps you to generate a safe and secure password for accessing your notes.When you set a password,the application will first analyze the password. If the password conforms to the pre-set conditions,the app will save it successfully. After that the password can be used for accessing the notes generator</p>
  <p align="center">
@@ -63,16 +66,44 @@ For generating a secure and safe password we need to use a mixture of:<br><b>1) 
 
 </p>
 <p align="center">
- <img width="215" style="pad" alt="2021-08-10 (2)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="215" style="pad" alt="2021-08-10 (15)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="222" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
 
   
   </p>
 <h4><b>ON CLICKING THIS BUTTON,THE APPLICATION WILL GO BACK TO SQUARE ONE .ALL THE NOTES AND CREDENTIALS CREATED EARLIER WILL BE DELETED AND THE USER CAN SIGN UP ALL OVER AGAIN</b></h4>  
 
+<h1>NOTE GENERATOR</h1>
+<p><mark>This application is used to make it much easily to remember important things in one's daily life. Multiple activities like adding, deleting and searching can be done in this application.</mark><br>
+<p align="center">
+<img width="240" height="370" alt="2021-08-11 (16)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
+</p> 
+  
+<h3>STEP-1: ADDING A NOTE</h3>
+<p>This application makes it very easy to add a note. Write it down in the text box and click on "Add Note". This creates a small card with the note below. </p>
+<p align="center"><img align="center" width="240" height="370" alt="2021-08-11 (17)" src="https://user-images.githubusercontent.com/82633814/129002497-3ba2a0ca-e642-4b54-ac6f-ead7d32d12a8.png"></p>
+<p>This action can be done as many times required by the user. Notes keep adding up and are kept safely.</p>
 
-<H2>TECHNOLOGIES USED</H2>
-<P>1)HTML<BR> 2)CSS<BR>3)JAVASCRIPT<BR>4)BOOTSTRAP</P>
+<h3>STEP-2: DELETING A NOTE</h3>
+<p>Once the card has been added, there is a delete button along with each note. Once "delete" is clicked, the note will erased. </p>
+<p align="center"><img width="215" style="pad" alt="2021-08-11 (18)" src="https://user-images.githubusercontent.com/87231724/129025812-a46603f6-046a-472f-8750-c0e7d0a2e113.PNG">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="217" alt="2021-08-11 (19)" src="https://user-images.githubusercontent.com/87231724/129026043-81683dd8-fa73-4233-9a28-1533e2e59585.PNG">
+</p>
+
+<h3>STEP-3: SEARCHING FOR A NOTE</h3>
+<p>We can search for the note required by the search bar in the navigation bar. </p>
+<p align="center"><img width="215" style="pad" alt="2021-08-11 (20)" src="https://user-images.githubusercontent.com/87231724/129028105-c5ac047d-d763-4260-b0b8-1f5a1aa3dcc5.PNG">
+<p> Once the note is searched, all the other notes will not been seen and the note searched will be on the top. 
+
+
+
+  
+
+  
+  
+
+
+
 
   
   
